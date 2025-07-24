@@ -1,0 +1,19 @@
+{
+  "name": "glow-navbar",
+  "version": "1.0.1",
+  "main": "dist/GlowNavbar.js",
+  "types": "dist/types/GlowNavbar.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "framer-motion": "^10.0.0",
+    "lucide-react": "^0.263.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
