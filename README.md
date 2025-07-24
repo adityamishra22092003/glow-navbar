@@ -2,8 +2,6 @@
 
 > A beautifully animated, gooey-style radial navigation bar built with React, Framer Motion, and Lucide icons. Perfect for modern portfolios, dashboards, or experimental UI projects.
 
-![Glow Navbar Demo](https://gemini.google.com/share/5cf91d4131c2))
-
 ---
 
 ## 📦 Installation
