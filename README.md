@@ -86,3 +86,4 @@ Framer Motion
 Lucide Icons
 
 React
+Aditya Mishra
